@@ -45,9 +45,37 @@ header {
 }
 
 .concept {
+	width: 100%;
 	text-align: center;
+	padding-top: 30px;
 }
 
 .concept-text {
 	font-size: 20px;
+	padding-bottom: 30px;
+}
+
+.link-box {
+	width: 40%;
+	height: 100px;
+	background-size: 100% 100%;
+}
+
+.link-box1 {
+	background-image: url(pictures/bricks-wall-stones-structure-37865.jpeg);
+}
+
+.link-box2 {
+	background-image: url(pictures/pexels-photo-220182.jpeg);
+}
+
+.link-box3 {
+	background-image: url(pictures/pexels-photo-renga.jpg);
+}
+
+.link-text {
+	color: white;
+	font-size: 40px;
+	text-align: right;
+	border-bottom: 3px solid #003300;
 }
