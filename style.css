@@ -44,6 +44,12 @@ header {
 	background-position: center;
 }
 
+.top-visual-text {
+	font-size: 32px;
+	text-align: center;
+	padding-top: 200px;
+}
+
 .concept {
 	width: 100%;
 	text-align: center;
