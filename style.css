@@ -44,3 +44,10 @@ header {
 	background-position: center;
 }
 
+.concept {
+	text-align: center;
+}
+
+.concept-text {
+	font-size: 20px;
+}
