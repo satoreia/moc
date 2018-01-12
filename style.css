@@ -162,6 +162,27 @@ header {
 
 
 
+/*questions.html*/
+.questions-visual {
+	width: 100%;
+	height: 250px;
+	background-image: url(pictures/pexels-photo-139764.jpeg);
+	background-size: 70% 100%;
+	background-position: center;
+}
+
+.questions-visual-text {
+	font-size: 40px;
+	text-align: center;
+	padding-top: 100px;
+}
+
+.questions-visual-text strong {
+	color: #f7f7f7;
+}
+
+
+
 
 
 
