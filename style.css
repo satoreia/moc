@@ -138,8 +138,6 @@ header {
 
 
 
-
-
 /*price.html*/
 .price-visual {
 	width: 100%;
@@ -149,24 +147,50 @@ header {
 	background-position: center;
 }
 
-.price-visual-text {
-	font-size: 40px;
-	text-align: center;
-	padding-top: 100px;
+
+
+/*questions.html*/
+.questions-visual {
+	width: 100%;
+	height: 250px;
+	background-image: url(pictures/pexels-photo-139764.jpeg);
+	background-size: 70% 100%;
+	background-position: center;
 }
 
-.price-visual-text strong {
-	color: #f7f7f7;
+
+/*blog-index.html*/
+.blogindex-visual {
+	width: 100%;
+	height: 250px;
+	margin-bottom: 30px;
+	background-image: url(pictures/pexels-photo-414645.jpeg);
+	background-size: 70% 100%;
+	background-position: center;
 }
 
 
 
+/*blog-show.html*/
+.image {
+	width: 70%;
+	height: 200px;
+	margin-bottom: 30px;
+	background-image: url(pictures/pexels-photo-706143.jpeg);
+	background-size: 70% 100%;
+	background-position: center;
+}
 
 
-
-
-
-
+/*news.html*/
+.newsindex-visual {
+	width: 100%;
+	height: 250px;
+	margin-bottom: 30px;
+	background-image: url(pictures/pexels-photo-706143.jpeg);
+	background-size: 70% 100%;
+	background-position: center;
+}
 
 
 
