@@ -138,8 +138,6 @@ header {
 
 
 
-
-
 /*price.html*/
 .price-visual {
 	width: 100%;
@@ -148,17 +146,6 @@ header {
 	background-size: 70% 100%;
 	background-position: center;
 }
-
-.price-visual-text {
-	font-size: 40px;
-	text-align: center;
-	padding-top: 100px;
-}
-
-.price-visual-text strong {
-	color: #f7f7f7;
-}
-
 
 
 
@@ -171,23 +158,23 @@ header {
 	background-position: center;
 }
 
-.questions-visual-text {
-	font-size: 40px;
-	text-align: center;
-	padding-top: 100px;
+
+/*blog-index.html*/
+.blogindex-visual {
+	width: 100%;
+	height: 250px;
+	background-image: url(pictures/pexels-photo-414645.jpeg);
+	background-size: 70% 100%;
+	background-position: center;
 }
 
-.questions-visual-text strong {
-	color: #f7f7f7;
+
+
+
+/*blog-index.html*/
+.table {
+	margin-top: 30px;
 }
-
-
-
-
-
-
-
-
 
 
 
