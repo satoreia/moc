@@ -111,3 +111,33 @@ header {
 	color: #f7f7f7;
 	margin: 0 20px;
 }
+
+
+
+
+
+
+/*about.html*/
+.about-visual {
+	width: 100%;
+	height: 250px;
+	background-image: url(pictures/pexels-photo-276549.jpeg);
+	background-size: 70% 100%;
+	background-position: center;
+}
+
+.about-visual-text {
+	font-size: 40px;
+	text-align: center;
+	padding-top: 100px;
+}
+
+.about-visual-text strong {
+	color: #f7f7f7;
+}
+
+
+
+
+
+
