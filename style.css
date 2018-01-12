@@ -77,7 +77,7 @@ header {
 
 .link-box3 {
 	background-image: url(pictures/pexels-photo-renga.jpg);
-	margin-bottom: 30px;
+/*	margin-bottom: 30px;*/
 }
 
 .link-text {
@@ -90,6 +90,7 @@ header {
 .back-image1 {
 	width: 100%;
 	height: 200px;
+	margin-top: 30px;
 	background-color: #f7f7f7;
 	background-size: 100% 100%;
 	background-position: center;
@@ -100,11 +101,11 @@ header {
 	height: 300px;
 	background-size: 100% 100%;
 	background-image: url(pictures/pexels-photo-418806.jpeg);
-	margin-bottom: 30px;
 }
 
 .sitemap {
 	background-color: black;
+	margin-top: 30px;
 }
 
 .sitemap-text {
@@ -191,6 +192,45 @@ header {
 	background-size: 70% 100%;
 	background-position: center;
 }
+
+
+
+/*top.html*/
+.login-visual {
+	width: 100%;
+	height: 500px;
+	margin-bottom: 30px;
+	background-image: url(pictures/pexels-photo-164287.jpeg);
+	background-size: 100% 100%;
+	background-position: center;
+}
+
+
+/*staffhome.html*/
+.staffhome-visual {
+	width: 100%;
+	height: 250px;
+	margin-bottom: 30px;
+	background-image: url(pictures/smartphone-vintage-technology-music.jpg);
+	background-size: 100% 100%;
+	background-position: center;
+}
+
+.staff-top-text {
+	font-size: 23px;
+	color: #9999ff;
+	text-align: center;
+	margin-top: 200px;
+}
+
+
+
+
+
+
+
+
+
 
 
 
